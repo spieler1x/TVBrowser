@@ -76,8 +76,9 @@ filmpalast.*###detailComments
 filmpalast.*##.currentTabInfo
 filmpalast.*##.ad-container
 filmpalast.*##[src="https://filmpalast.to/download.png"]
-||filmpalast.to/themes/downloadarchive/images/slider_headline.png$image
-||filmpalast.*/themes/downloadarchive/images/slider_headline.png$image
+s.to##.py-lg-2.py-1.bg-header.navbar-dark.navbar-expand-lg.navbar
+s.to##.mt-auto.py-5.text-white.bg-footer.site-footer
+s.to##.mt-2.comment-section
 www.lookmovie2.*##.tw-gap-4.tw-grid-cols-2.md\:tw-grid-cols-4.tw-grid.tw-mt-10.tw-gap-x-5
 s.to###footer
 s.to##.main-header
