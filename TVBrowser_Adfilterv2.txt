@@ -5,6 +5,7 @@
 @@||*^$domain=olimodo.com
 ##.dsp-under-video-ad
 ||notify.rocks^
+||rostelshute.shop^
 ||links.silverpop-email.branch.rocks^
 efvpufdjd.com
 gummierhedera.life
@@ -34,6 +35,7 @@ mfadsrvr.com
 0 cvt-s2.agl006.host
 0 video.flirtify.com
 0 blob:megakino.jetzt
+0 rostelshute.shop
 0 st.chatango.com
 0 media.cashpointpartners.com
 0.0.0.0 flirtify.com
@@ -56,6 +58,7 @@ mfadsrvr.com
 ||cashpointpartners.com^
 ||marially-watears.icu^
 ||depreciatorybollocksupkitchen.com^
+*shop*
 the.streameast.app##.site-footer
 hdfilme.*##.flex-shrink-0
 hdfilme.*##h1
@@ -69,6 +72,18 @@ hdfilme.*##.text-center.mb-2
 hdfilme.*##.text-center.mt-2
 hdfilme.*##.mt-5.detail
 hdfilme.*##.relative.slider
+chaturbetter.com##.svelte-4gua5f.room_list_ad.col
+chaturbetter.com##div.align-items-center.justify-content-center.container-fluid:nth-of-type(2)
+chaturbetter.com##.px-lg-2.px-0.align-items-center.justify-content-end.container-fluid
+chaturbetter.com##.active.me-2.ms-auto.border-bottom-0.rounded-bottom-0.text-body-emphasis.btn-outline-success.btn-sm.btn
+chaturbetter.com##.svelte-9h0em.fb-layer
+chaturbetter.com##.svelte-9h0em.fb-overlay
+chaturbetter.com##.svelte-1c8tlrz.room_list_ad.col > .shadow-sm.card
+chaturbetter.com##.ms-auto.flex-shrink-0.gap-2.align-items-center.justify-content-end.d-flex
+chaturbetter.com##.svelte-u2vnov.room-info
+chaturbetter.com##body > div > .pt-3
+chaturbetter.com##.svelte-u2vnov.pb-4.pt-3.px-md-4.px-3
+chaturbetter.com##.svelte-11lpkcp.fixed-bottom.d-lg-none.d-flex.mobile-tabbar
 filmpalast.*##.alert-banner
 filmpalast.*###moviedetails
 filmpalast.*##.iconDetail.rb.button
@@ -81,10 +96,21 @@ s.to##.mt-auto.py-5.text-white.bg-footer.site-footer
 s.to##.mt-2.comment-section
 www.lookmovie2.*##.tw-gap-4.tw-grid-cols-2.md\:tw-grid-cols-4.tw-grid.tw-mt-10.tw-gap-x-5
 s.to###footer
+s.to##.mt-2.p-2.element-wrapper-grey
+s.to##h2.mb-1.h5.fw-bold.text-primary:nth-of-type(1)
+s.to##.mt-3.mb-1.h5.fw-bold.text-primary
+s.to##.mt-2.g-4.row
 s.to##.main-header
 s.to##.allSeriesBox
 s.to##.hosterSectionTitle
 s.to##.pageCenter.pageTitle
+onlyflix.to##.ofpop-home
+onlyflix.to##.mt-auto.mt-5.text-light.bg-dark.footer-custom
+onlyflix.to##div.mt-4.justify-content-center.row:nth-of-type(5)
+onlyflix.to##.recently-added-h1
+onlyflix.to##.search-main.d-flex.justify-content-center.col-lg-10
+onlyflix.to##.ofpop-chart-mount
+onlyflix.to##.related-movies
 moflix-stream.*##.px-24.flex-shrink-0.mt-48.mx-auto.container.md\:pb-54.pt-54.pb-28.text-sm
 moflix-stream.*##.py-24.general_bottom-host.overflow-hidden.justify-center.items-center.max-w-full.w-full.min-h-90.max-h-\[600px\].flex.ad-host
 moflix-stream.*##div.mt-48:nth-of-type(5)
