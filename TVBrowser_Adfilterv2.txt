@@ -231,6 +231,12 @@ megakino*.com##.js-show-trailer.img-fit-cover.pmovie__btn-trailer
 megakino*.com##.poster__label
 megakino*.com##.message-info
 megakino*.com##.search-page__title
+m.youtube.com##ytm-badge-and-byline-renderer.YtmBadgeAndBylineRendererHost:nth-of-type(2)
+m.youtube.com##.donation-shelf-progress
+m.youtube.com##.donation-shelf-expander
+serienstream.to###liveTicker_6a4b7aa8145f7
+serienstream.to##.ltkr-vp
+serienstream.to##.ltkr-top.ltkr
 megakino*.*##.carou > .carou__caption
 megakino*.*##.notice
 megakino*.*##.homeList
