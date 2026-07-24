@@ -207,6 +207,18 @@ megakino.*##.flex-grow-1.pmovie__complaint
 megakino.*##.js-show-trailer.img-fit-cover.pmovie__btn-trailer
 megakino.*##.poster__label
 megakino.*##.message-info
+crackstreams.*##center > h2
+crackstreams.*##center:nth-of-type(2)
+crackstreams.*##.main > p
+crackstreams.*##footer
+crackstreams.*##.sidebar
+crackstreams.*##h3
+crackstreams.*##.seo-box
+xyzstreams.*##header
+xyzstreams.*##.chat-column
+xyzstreams.*##.stream-meta-bar
+xyzstreams.*##.more-box
+xyzstreams.*##div.section-header > h2
 megakino12.com##.carou > .carou__caption
 megakino12.com##.notice
 megakino12.com##.jc-center.fd-column.d-flex.carou__desc
