@@ -39,6 +39,9 @@ mfadsrvr.com
 0 st.chatango.com
 0 media.cashpointpartners.com
 0.0.0.0 flirtify.com
+0.0.0.0 wctracking.com
+0.0.0.0 considerablemental.com
+0.0.0.0 cruzswim.org
 0.0.0.0 alldatenow.com
 0.0.0.0 depreciatorybollocksupkitchen.com
 0.0.0.0 agl006.host
@@ -58,6 +61,11 @@ mfadsrvr.com
 ||blob:megakino.*^
 ||chatango.com^
 ||ms-valentina-diiqyyw.work^
+||flirtify.com^
+||wctracking.com^
+||considerablemental.com^
+||cruzswim.org^
+||designletters.de^
 ||sewarsremeets.cfd^
 ||newsboydurance.cfd^
 ||brigadedelegatesandbox.com^
