@@ -50,6 +50,7 @@ mfadsrvr.com
 0.0.0.0 noolt.com
 0.0.0.0 madurird.com
 0.0.0.0 cashpointpartners.com
+0.0.0.0 anthemoutbackwrought.com
 0.0.0.0 marially-watears.icu
 0.0.0.0 ms-valentina-diiqyyw.work
 0.0.0.0 newsboydurance.cfd
@@ -78,6 +79,7 @@ mfadsrvr.com
 ||rostelshute.shop^
 ||caranethymele.cfd^
 ||defensekanjis.cyou^
+||anthemoutbackwrought.com^
 *shop*
 *.cyou*
 the.streameast.app##.site-footer
@@ -93,6 +95,20 @@ hdfilme.*##.text-center.mb-2
 hdfilme.*##.text-center.mt-2
 hdfilme.*##.mt-5.detail
 hdfilme.*##.relative.slider
+filmo.*##.home-promo-banner--focus-right.home-promo-banner
+filmo.*###footer-about
+filmo.*##.pb-4.container-wrapper
+filmo.*##.pt-1.mt-2.text-end.movie-link-report-row
+bysezejataos.com##.site-header
+bysezejataos.com##.mt-auto.site-footer
+tracylocalschool.com##.legalHeader
+tracylocalschool.com##.toolbar
+tracylocalschool.com##.pb-3.pt-4.footer
+tracylocalschool.com##.mb-5.mt-3.container
+playmate.to##.watch-header
+playmate.to##.pub-footer-full
+playmate.to##.watch-comments
+playmate.to##.watch-meta
 serienstream.to##.mt-2.small
 serienstream.to##.gap-2.align-items-center.d-flex.thumbs-rating-widget
 chaturbetter.com##.svelte-4gua5f.room_list_ad.col
